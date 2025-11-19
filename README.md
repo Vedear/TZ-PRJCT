@@ -10,7 +10,7 @@ In this file will be some sites and links.
 
 3) Лабароторная работа - 8 вариант, АРМ Работника склада
 
-[Лабараторка](./LAB1.pdf)
+[Лабараторка](./files/LAB1.pdf)
 
 4) UML модели
 
